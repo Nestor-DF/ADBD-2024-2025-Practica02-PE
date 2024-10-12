@@ -111,4 +111,5 @@
 - El stock de un producto no puede ser negativo.
 - El importe total de un pedido debe ser mayor a cero.
 - El precio de un producto no puede ser negativo.
+- Un empleado solo puede trabajar en una única zona durante una época específica del año, una vez terminada su asignación sí puede trabajar en una zona distinta.
 - La fecha de fin de asignación de un empleado a una zona debe ser posterior a la fecha de inicio
