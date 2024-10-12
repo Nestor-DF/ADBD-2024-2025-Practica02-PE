@@ -93,8 +93,8 @@
 2. **Zona (1,N) - (1,N) Producto**  
    Una zona puede contener uno o varios productos. A su vez, un producto puede estar en una o varias zonas, lo que significa que un mismo producto puede estar disponible en distintas zonas del mismo vivero o incluso en viveros diferentes.
 
-3. **Zona (1,1) - (1,N) Empleado**  
-   Cada zona tiene asignado uno o varios empleados. Sin embargo, un empleado solo puede estar asignado a una única zona donde desempeña su trabajo.
+3. **Zona (1,N) - (1,N) Empleado**  
+   Cada zona tiene asignado uno o varios empleados. Un empleado puede trabajar en distintas zonas a lo largo del año (aunque no en dos o más al mismo tiempo)
 
 4. **Empleado (1,1) - (1,N) Pedido**  
    Un empleado puede gestionar uno o más pedidos. No obstante, cada pedido es gestionado por un solo empleado.
