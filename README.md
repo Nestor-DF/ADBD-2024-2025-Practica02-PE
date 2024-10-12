@@ -80,10 +80,16 @@
     - Dominio: Un valor de fecha en formato `DD-MM-YYYY`.
     - Ejemplo: `"15-01-2024"`, `"10-12-2023"`.
     - 
-8. **Teléfono (Empleado) - Multievaluado**:
+12. **Teléfono (Empleado) - Multievaluado**:
    - Descripción: Números de teléfono que tiene el empleado (Personal y de trabajo).
    - Dominio: Una cadena númerica con formato de número de teléfono.
    - Ejemplo: `622341623`, `601455267`.
+
+13. **Cantidad (Relación Producto-Pedido)**:
+   - Descripción: Cantidad de x producto en el pedido.
+   - Dominio: Un número entero positivo.
+   - Ejemplo: `1`, `3`.
+
 
 ## Descripción de cada una de las relaciones definidas
 
